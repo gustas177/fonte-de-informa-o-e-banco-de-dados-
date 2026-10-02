@@ -10,3 +10,6 @@ analise_de_dados_de_empresas_multimodais
 <img width="868" height="729" alt="Captura de tela 2026-09-25 210920" src="https://github.com/user-attachments/assets/3500aac3-1dd8-427d-839e-17ffc7878cc9" />
 
 <img width="1092" height="672" alt="image" src="https://github.com/user-attachments/assets/12208a96-cf9d-48c7-a0dc-ace1d6299334" />
+
+<img width="1277" height="692" alt="image" src="https://github.com/user-attachments/assets/469b5722-a199-43e0-bf1e-bff04785cff8" />
+
