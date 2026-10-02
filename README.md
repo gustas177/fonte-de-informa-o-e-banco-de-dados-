@@ -48,6 +48,10 @@ Projeto de análise e organização de dados utilizando fontes de informação e
 
 Desenvolver conhecimentos de análise de dados e apresentação de informações de forma visual.
 
+Apresentação pessoal
+<img width="1436" height="802" alt="Captura de tela 2026-10-01 205145 - Copia" src="https://github.com/user-attachments/assets/35993fdf-815a-4c3d-a560-032c11002cae" />
+
+
 <img width="1768" height="844" alt="Captura de tela 2026-09-18 205837" src="https://github.com/user-attachments/assets/fe1faa77-199b-4f8e-a084-8fe10f4e3015" />
 analise_de_dados_de_empresas_multimodais
 
