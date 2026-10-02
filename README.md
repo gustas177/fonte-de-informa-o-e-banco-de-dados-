@@ -1,6 +1,52 @@
-# fonte_de_banco_de_dados
-1°_semestre_GPI_na_fatec
+# Olá, eu sou Gustavo 👋
 
+🎓 Estudante de Gestão da Produção Industrial
+📊 Interesse em Logística, PCP e Processos
+💻 Estudando Excel, Power BI, SQL e SAP
+
+## 🚀 Atualmente estudando
+
+- Excel
+- Power BI
+- SQL
+- SAP
+- Gestão da Produção
+- Logística
+
+## 📂 Projetos
+
+- Controle de Estoque
+- Análise de Produção
+- Dashboard de Indicadores
+- Planejamento e Controle da Produção
+- 
+# fonte_de_banco_de_dados
+# Fonte de Informação e Banco de Dados
+
+Projeto desenvolvido durante o 1º semestre de Gestão da Produção Industrial (GPI) na FATEC.
+
+## 📌 Sobre o projeto
+
+Projeto de análise e organização de dados utilizando fontes de informação e ferramentas de análise de dados.
+
+## 🛠️ Ferramentas utilizadas
+
+- Microsoft Excel
+- Tabelas dinâmicas
+- Gráficos
+- Análise de dados
+
+## 📊 Análises realizadas
+
+- Empresas multimodais
+- Distribuição por estado
+- População em favelas
+- Análise por município
+- Indicadores e gráficos
+
+## 🎯 Objetivo
+
+Desenvolver conhecimentos de análise de dados e apresentação de informações de forma visual.
 
 <img width="1768" height="844" alt="Captura de tela 2026-09-18 205837" src="https://github.com/user-attachments/assets/fe1faa77-199b-4f8e-a084-8fe10f4e3015" />
 analise_de_dados_de_empresas_multimodais
