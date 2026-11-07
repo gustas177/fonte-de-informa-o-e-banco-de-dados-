@@ -95,3 +95,8 @@ Grafico de regressão linear e uso de IA
 Esta análise apresenta a distribuição da quantidade de empresas por Estado e por ano. Os gráficos permitem observar quais Estados e períodos apresentam maiores e menores quantidades, facilitando a interpretação dos dados.
 <img width="1277" height="692" alt="image" src="https://github.com/user-attachments/assets/469b5722-a199-43e0-bf1e-bff04785cff8" />
 
+<img width="987" height="557" alt="image" src="https://github.com/user-attachments/assets/33e6f342-9274-486e-882f-0e41ea4447d3" />
+
+
+
+
