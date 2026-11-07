@@ -91,9 +91,7 @@ Este trabalho apresenta uma análise das infrações registradas, organizando os
 Esta análise apresenta a distribuição da quantidade de empresas por Estado e por ano. Os gráficos permitem observar quais Estados e períodos apresentam maiores e menores quantidades, facilitando a interpretação dos dados.
 <img width="1277" height="692" alt="image" src="https://github.com/user-attachments/assets/469b5722-a199-43e0-bf1e-bff04785cff8" />
 
-Grafico de regressão linear e uso de IA
 
-<img width="962" height="556" alt="Captura de tela 2026-11-05 214414" src="https://github.com/user-attachments/assets/19233193-9603-40d5-bfd2-b1524e0e3447" />
 
 Grafico de regressão linear e uso de IA
 
