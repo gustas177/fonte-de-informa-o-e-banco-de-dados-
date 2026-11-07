@@ -97,6 +97,18 @@ Esta análise apresenta a distribuição da quantidade de empresas por Estado e 
 
 <img width="987" height="557" alt="image" src="https://github.com/user-attachments/assets/33e6f342-9274-486e-882f-0e41ea4447d3" />
 
+<img width="933" height="551" alt="image" src="https://github.com/user-attachments/assets/ed25b599-39a3-4074-9075-0a4d3afc51f5" />
+
+<img width="810" height="477" alt="image" src="https://github.com/user-attachments/assets/05e9a0fd-8166-47df-9fc5-afc01469e3c4" />
+
+<img width="794" height="474" alt="image" src="https://github.com/user-attachments/assets/dbd1dd79-4d40-490e-975a-765803aeaef6" />
+
+<img width="1435" height="608" alt="image" src="https://github.com/user-attachments/assets/4c0b8040-255a-402c-89b5-74fc325afb1d" />
+
+
+
+
+
 
 
 
