@@ -93,19 +93,26 @@ Esta análise apresenta a distribuição da quantidade de empresas por Estado e 
 
 
 
-Grafico de regressão linear e uso de IA
-
-<img width="962" height="556" alt="Captura de tela 2026-11-05 214414" src="https://github.com/user-attachments/assets/19233193-9603-40d5-bfd2-b1524e0e3447" />
+## 📈 Regressão linear e uso de IA
 
 
+📊 Foto 7 — Prompt enviado ao Colab para gerar a regressão linear
 
 <img width="987" height="557" alt="image" src="https://github.com/user-attachments/assets/33e6f342-9274-486e-882f-0e41ea4447d3" />
 
+📊 Foto 7 — Prompt enviado ao Colab para gerar a regressão linear
+
 <img width="933" height="551" alt="image" src="https://github.com/user-attachments/assets/ed25b599-39a3-4074-9075-0a4d3afc51f5" />
+
+📊 Foto 9 — Regressão linear com a reta ajustada
 
 <img width="810" height="477" alt="image" src="https://github.com/user-attachments/assets/05e9a0fd-8166-47df-9fc5-afc01469e3c4" />
 
+📊 Foto 10 — Resultados do modelo e conclusão
+
 <img width="794" height="474" alt="image" src="https://github.com/user-attachments/assets/dbd1dd79-4d40-490e-975a-765803aeaef6" />
+
+📊 Foto 11 — Excel × Python: comparação dos modelos
 
 <img width="1435" height="608" alt="image" src="https://github.com/user-attachments/assets/4c0b8040-255a-402c-89b5-74fc325afb1d" />
 
