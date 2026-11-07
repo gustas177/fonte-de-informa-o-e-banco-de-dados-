@@ -116,6 +116,14 @@ Esta análise apresenta a distribuição da quantidade de empresas por Estado e 
 
 <img width="1435" height="608" alt="image" src="https://github.com/user-attachments/assets/4c0b8040-255a-402c-89b5-74fc325afb1d" />
 
+ Expectativa de vida no mundo (1950–2023)
+
+Dashboard com 3 visualizações sobre a expectativa de vida ao nascer em 236 países, usando dados do Our World in Data. O arquivo de dados está pronto para ser importado no Power BI.
+
+<img width="827" height="788" alt="Captura de tela 2026-11-06 210624" src="https://github.com/user-attachments/assets/b3dcb455-bf82-4b02-85b3-9f707ecba6ef" />
+
+
+
 
 
 
