@@ -144,6 +144,32 @@ Dashboard com 3 visualizações sobre a expectativa de vida ao nascer em 236 pa�
 
 
 
+**CONTEUDO DA PROVA**
+
+1-Elabore duas tabelas de acordo com figura ao lado.
+<img width="260" height="511" alt="Captura de tela 2026-11-13 205132" src="https://github.com/user-attachments/assets/9f102700-af4d-4e63-a38f-a735413fa8a3" />
+<img width="705" height="938" alt="Captura de tela 2026-11-13 205516" src="https://github.com/user-attachments/assets/c4c9a031-512d-4568-baab-6b1c6c9bccfd" />
+
+1-Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
+- mapa geográfico mostrando onde há o maior número de investimentos
+- visualização relacionando município com  setor econômico envolvido
+- visualização de sua livre escolha
+<img width="1617" height="804" alt="image" src="https://github.com/user-attachments/assets/e61932d4-4918-4a32-b55b-34a7ccf4568a" />
+
+
+4-Elaborar um modelo de regressão linear simples com os dados referentes a: idade média dos
+homens ao casa
+
+<img width="1503" height="592" alt="Captura de tela 2026-11-13 212716" src="https://github.com/user-attachments/assets/8878637c-d53d-4e47-a176-a42bd0c8310e" />
+
+
+
+
+
+
+
+
+
 
 
 
